@@ -1,7 +1,7 @@
 package com.cuongtrinh1280.pso;
 
 /*
-* Const declarations for the whole package com.zzBBc/pso;
+* Const declarations for the whole package com.cuongtrinh1280/pso;
 */
 import java.util.Random;
 
